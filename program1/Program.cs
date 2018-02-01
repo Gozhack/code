@@ -7,6 +7,8 @@ namespace program1
         static void Main(string[] args)
         {
             Console.WriteLine("Hi hello takataka!"); //comment by goz_hdi
+            Console.WriteLine("Simon ese from el c9 seNain"); //comment by goz on c9
+            
         }
     }
 }
